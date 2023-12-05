@@ -3,6 +3,8 @@
 
 ## Readability and Maintainability 📖
 
+![Readability and Maintainability](https://i.insider.com/5ea9ac09e61f341c941545c5?width=1136&format=jpeg)
+
 **Purpose:** Enhances code maintainability and collaboration by ensuring a consistent and readable codebase.
 
 - Code follows project coding style and conventions.
@@ -27,6 +29,8 @@ func divide(a, b int) (int, err) {
 ```
 
 ## Functionality and Correctness ✔️
+
+![](https://transcendculture.co/wp-content/uploads/2012/12/825880_thumbnail1-1024x790-600x463.jpg)
 
 **Purpose:** Verifies that the code behaves as expected, handles errors correctly, and meets project requirements.
 
@@ -61,6 +65,7 @@ func sum(numbers []int) (int, err) {
 ```
 
 ## Code Structure and Organization 🧩
+
 
 **Purpose:** Improves code maintainability and promotes a modular and efficient code structure.
 
@@ -120,6 +125,8 @@ func (u *User) Password(email string) {
 ```
 
 ## Performance 🕒
+![](https://cdn.solutionreach.com/uploads/2023/09/28130212/resized-image-Promo-2023-09-28T130119.076-1.jpeg)
+
 **Purpose:** Ensures efficient code execution and addresses performance concerns for optimal application performance.
 
 - Evaluate time and space complexity.
@@ -150,6 +157,8 @@ func getUserKeys(users map[string]int) []string {
 ```
 
 ## Security 🔒
+
+![](https://img.freepik.com/free-vector/global-data-security-personal-data-security-cyber-data-security-online-concept-illustration-internet-security-information-privacy-protection_1150-37375.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699401600&semt=ais)
 
 **Purpose:** Protects the application and user data by identifying and mitigating potential security risks.
 
@@ -183,6 +192,8 @@ func generatePassword(password string) (string, error) {
 ```
 
 ## Documentation 📝
+
+![](https://img.freepik.com/free-vector/online-document-concept-illustration_114360-5453.jpg)
 
 **Purpose:** Facilitates code understanding, collaboration, and knowledge transfer through comprehensive documentation.
 
@@ -228,6 +239,8 @@ func calculateAgeInMonths(user User) int {
 
 ## Testing 🧪
 
+![](https://img.freepik.com/free-vector/software-code-testing-concept-illustration_114360-8414.jpg)
+
 **Purpose:** Ensures code correctness, identifies critical bugs, and maintains the integrity of existing functionality
 
 - Code includes unit tests.
@@ -253,12 +266,16 @@ func Test_Sum(t *testing.T) {
 
 ## Scalability 📈
 
+![](https://cdn-cashy-static-assets.lucidchart.com/marketing/blog/2021Q2/what-does-scalability-mean-for-systems-and-services/what-dooes-scalability-mean-for-systems-and-services.png)
+
 **Purpose:** Prepares the codebase for future expansion and identifies scalable solutions for optimal performance.
 
 - Consider scalability for future growth.
 - Discuss potential improvements for scalability.
 
 ## Code Review Etiquette 💬
+
+![](https://img.freepik.com/premium-vector/hand-drawn-line-art-hand-shake-vector-illustration-line-art-handshake-business-agreement_266639-2218.jpg)
 
 **Purpose:** Fosters a positive and collaborative team culture, ensuring effective communication during code reviews.
 
@@ -268,12 +285,16 @@ func Test_Sum(t *testing.T) {
 
 ## Knowledge Transfer 🧠
 
+![](https://media.istockphoto.com/id/1398235010/vector/brilliant-idea-vector-concept.jpg?s=612x612&w=0&k=20&c=dtFVI1vFgRTH74UiiPbgLWbsi37csWY6ss7g-LT6hgk=)
+
 **Purpose:** Promotes shared understanding, collaboration, and knowledge sharing within the development team.
 
 - Ensure changes are understood by the team.
 - Share knowledge about the codebase and design decisions.
 
 ## Version Control ⚙️
+
+![](assets/images/version_control.jpeg)
 
 **Purpose:** Maintains a clear history of changes, aids in tracking modifications, and ensures a consistent development workflow.
 
@@ -282,6 +303,8 @@ func Test_Sum(t *testing.T) {
 - Adherence to the version control process.
 
 ## Dependencies and Third-Party Libraries ➕
+
+![](https://t3.ftcdn.net/jpg/04/93/55/30/360_F_493553066_pTvGN6LHKwCdKZaC4BaPGrF3Hx6qqW70.jpg)
 
 **Purpose:** Ensures proper justification, documentation, and licensing compliance for third-party dependencies.*
 
