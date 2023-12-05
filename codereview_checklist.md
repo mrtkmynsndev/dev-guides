@@ -38,7 +38,10 @@ func divide(a, b int) (int, err) {
 
 // Functionality and Correctness
 func main() {
-	result := sum(5, 10)
+	result, error := sum(5, 10)
+	if err != nil{
+		log.Fatal(err)
+	}
 	fmt.Println(result)
 }
 
@@ -163,6 +166,7 @@ func main() {
 	if err != nil{
 		log.Fatal(err)
 	}
+
 	fmt.Println(securePassword)
 }
 
